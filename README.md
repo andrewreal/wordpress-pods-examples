@@ -14,3 +14,10 @@ We'll call our field 'Featured' and return array of featured users.
 ### Group fields into Meta Boxes
 Group Pods fields to pull related fields together in the WP_Admin user interface.
 Also allows you to set the title of the group instead of "More Fields". 
+
+
+
+# Other Information
+
+The [Big Green Reference Table ](http://pods.io/docs/code/pods/find/#additional-information)
+This reference table on Pods.io is a useful guide to help find out how to reference different types of Pods fields.
